@@ -28,7 +28,7 @@ All domain records have the following internal structure:
     ],
     "updatedOn": "dd.mm.yyyy, hh:mm:ss",
     "version": 1,
-    "source": "@link"
+    "source": "https://www.example.org"
 }
 ```
 
