@@ -15,12 +15,12 @@ Please update all data fields that are surrounded by square brackets.
 
 **Proposed amendment**
 - Domain Name: e.g. [whitehouse.gov]
-- Domain Type: [Federal Agency - Executive]
-- Agency: [Executive Office of the President]
-- Organization: [White House]
-- City: [Washington]
-- State: [DC]
-- Security Contact Email: [(blank)]
+- Domain Type: e.g. [Federal Agency - Executive]
+- Agency: e.g. [Executive Office of the President]
+- Organization: e.g. [White House]
+- City: e.g. [Washington]
+- State: e.g. [DC]
+- Security Contact Email: e.g. [(blank)]
 
 **Additional context**
 Add any other context about the problem here.
