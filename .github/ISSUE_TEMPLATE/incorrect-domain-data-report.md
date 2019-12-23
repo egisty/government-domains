@@ -22,5 +22,9 @@ Please update all data fields that are surrounded by square brackets.
 - State: [DC]
 - Security Contact Email: [(blank)]
 
+If applicable, please include the following: 
+- Unknown information: (blank)
+- Correct information: -
+
 **Additional context**
 Add any other context about the problem here.
