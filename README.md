@@ -33,7 +33,7 @@ All domain records have the following internal structure:
 ```
 
 ## What is the data?
-The files that are listed in this repository contain domain information from federal agencies as well as states, territories, cities, counties, and native tribes.This should make it easier for a large number of people to obtain official domain information from a verified source without having to carry out extensive research beforehand.
+The files that are listed in this repository contain domain information from federal agencies as well as states, territories, cities, counties, and native tribes. This should make it easier for a large number of people to obtain official domain information from a verified source without having to carry out extensive research beforehand.
 
 For the direct use of the data by developers, the lists, have been converted into JSON format, since parsers are available for this purpose in all common programming languages.
 
